@@ -48,5 +48,5 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dd8888&show_icons=true&theme=radical)
 
 
-[twitter]: https://twitter.com/dd8888
+[twitter]: https://twitter.com/utcnns
 [linkedin]: https://www.linkedin.com/in/david-diaz-dev/
