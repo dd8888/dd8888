@@ -6,11 +6,15 @@
 - 🌱 I’m currently learning everything! 🤣
 - ⚡ Fun fact: I love learning new things.
 
+<br />
+
 ### Contact with me:
+
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br />
 <br />
 
 ### Languages and Tools:
@@ -32,14 +36,17 @@
 
 ---
 
----
 
-
-
-
-<summary>:zap: Stats and Top Langs</summary>
+<summary>:zap: Top Langs</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dd8888)](https://github.com/dd8888/github-readme-stats)
+
+<br />
+
+<summary>:zap: Stats</summary>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dd8888&show_icons=true&theme=radical)
+
 
 [twitter]: https://twitter.com/dd8888
 [linkedin]: https://www.linkedin.com/in/david-diaz-dev/
