@@ -1,10 +1,9 @@
 ### Hi there, I'm David
 
-## I'm a Developer, and student!
+## I'm a Web Developer
 
-- 🔭 Right now I'm at the "Fullstack Developer Course (EOI)"
-- 🌱 I’m currently learning everything! 🤣
-- ⚡ Fun fact: I love learning new things.
+- 🔭 Right now I'm working at Medano Solutions
+- 🌱 I’m currently learning everything!
 
 <br />
 
